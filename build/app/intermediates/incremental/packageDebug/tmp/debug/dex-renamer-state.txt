@@ -1,0 +1,4 @@
+#Thu Mar 17 10:30:28 IST 2022
+base.0=/Volumes/Data/WorkSpaceRavi/getx_dio_post/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
